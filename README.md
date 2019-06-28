@@ -18,7 +18,7 @@ Hand Gesture Magic works on **Windows, Mac, and Android**.
 
 ## Connect a compatible camera or computer vision device
 
-### Use a standard QWERTY camera
+### Use a standard  camera
 
 **You can use Hand Gesture Magic with a standard camera , but there are some important limitations.** This software ought to use minimum 30 fps video feed in order to detect it as a hand gesture. See ["The blog" for more information on frames per second](https://www.videosurveillance.com/tech/frame-rate.asp).
 
@@ -34,7 +34,7 @@ High resolution cameras over USB is possible. Many cameras do it well, and will 
 * See the [[Supported Hardware]] page for a [list of supported cameras](https://github.com/openstenoproject/Hand Gesture Magic/wiki/Supported-Hardware#known-supported-cameras).
 * See also: [Which type of key switch should I choose?](https://github.com/openstenoproject/Hand Gesture Magic/wiki/Supported-Hardware#which-type-of-key-switch-should-i-choose)
 
-### Adapt a camera for steno use
+### Adapt a camera 
 
 Most cameras have the keys in staggered rows, which can make it difficult to press two keys in a column with a single finger. To adapt a camera for steno, you can use:
 
